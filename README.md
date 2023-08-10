@@ -32,7 +32,17 @@ there was in some of the input columns.
 -To locally test the models, we've created a web app using Django and React:
 ![App](res/app.png)
 
--The user can fill a form and get the prediction:
-![forl](res/form.png)
+-The user can fill out a form and get the prediction:
+![form](res/form.png)
+
+## References:
+- United Nations. (n.d.). FAO Statistical Database. Retrieved from http://data.un.org/Data.aspx?d=FAO&f=itemCode%3A534.
+- Ministère de l'Agriculture, de la Pêche Maritime, du Développement Rural, et des Eaux et Forêts. (n.d.). Accueil. Retrieved from https://www.agriculture.gov.ma/fr/accueil.
+- Brownlee, J. (2021). k-Nearest Neighbors (k-NN) Imputation for Missing Values in Machine Learning. Machine Learning Mastery. Retrieved from https://machinelearningmastery.com/knn-imputation-for-missing-values-in-machine-learning/.
+- Visser, C. (n.d.). Pandas: Excel Tabs. Practical Business Python. Retrieved from https://pbpython.com/pandas-excel-tabs.html.
+- scikit-learn developers. (n.d.). Statistical Inference in scikit-learn: Putting it All Together. scikit-learn. Retrieved from https://scikit-learn.org/stable/tutorial/statistical_inference/putting_together.html.
+
+
+
 
 
